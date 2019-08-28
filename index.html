@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta name="author" content="NextU LATAM Inc., José Manuel Rodríguez Roberto">
+    <meta name="keywords" content="html,css,xml,Bootstrap,container,row,col">
+    <meta name="description" content="Ejercicio de aprendizaje de codificación de Bootstrap - ">
+    <title>Cartelera de cine</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/estilos.css">
+  </head>
+  <body class="cinema-body">
+    <header>
+      <nav class="navbar navbar-inverse navbar-fixed-top affix-top">
+        <img class="logo-img" src="img/Logo.svg" alt="Cine Jomarr">
+      </nav>
+    </header>
+
+    <section class="container-fluid"><!-- Clase para que el contenedor ocupe toda la pantalla de izquierda a derecha -->
+      <div class="row">
+        <div class="jumbotron">
+          <div class="row">
+            <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8 text-center">
+              <h2 class="text-uppercase welcome-title">bienvenidos a</h2>
+              <img class="jumbotron-img" src="img/Logo.svg" alt="Cine Jomarr">
+              <div class="jumbotron-text">
+                Síguenos en nuestras <abbr title="Facebook, Twitter, Instagram">redes sociales</abbr> para obtener información sobre los últimos estrenos del cine
+              </div>
+              <div class="redes-sociales">
+                <img class="img-rounded img-social" src="img/Youtube.svg" alt="Logo de youtube">
+                <img class="img-rounded img-social" src="img/Face.svg" alt="Logo de Facebook">
+                <img class="img-rounded img-social" src="img/Twitter.svg" alt="Logo de twitter">
+                <img class="img-rounded img-social" src="img/Instagram.svg" alt="Logo de instagram">
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 text-center"></div>
+          </div>
+        </div>
+
+        <div class="titulo-cartelera">
+          <header class="text-capitalize text-center titulo-text">
+            Peliculas en cartelera
+          </header>
+        </div>
+      </div>
+
+      <div class="row movies-row">
+        <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3 movies-column text-center">
+          <div class="row movie-title"><img src="Img/AngryBirds.jpg" alt="Angry Birds" class="img-movies"></div>
+          <div class="row movie-title"><p>Angry Birds</p></div>
+          <div class="row movie-title"><p>Sala 1</p></div>
+        </div>
+        <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3 movies-column text-center">
+          <div class="row movie-title"><img src="img/FirstDraft.jpg" alt="First Draft" class="img-movies"></div>
+          <div class="row movie-title"><p>First Draft</p></div>
+          <div class="row movie-title"><p>Sala 2</p></div>
+        </div>
+        <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3 movies-column text-center">
+          <div class="row movie-title"><img src="img/LaHigueraDeLosBastardos.jpg" alt="La Higuera De Los Bastardos" class="img-movies"></div>
+          <div class="row movie-title"><p>La Higuera De Los Bastardos</p></div>
+          <div class="row movie-title"><p>Sala 3</p></div>
+        </div>
+        <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3 movies-column text-center">
+          <div class="row movie-title"><img src="img/LaTulipaMama.jpg" alt="La Tulipa Mama" class="img-movies"></div>
+          <div class="row movie-title"><p>La Tulipa Mama</p></div>
+          <div class="row movie-title"><p>Sala 4</p></div>
+        </div>
+        <div class="col-lg-2 col-md-2 movies-column text-center right-column">
+          <div class="row movie-title"><img src="img/LosOcupantes.jpg" alt="Los Ocupantes" class="img-movies"></div>
+          <div class="row movie-title"><p>Los Ocupantes</p></div>
+          <div class="row movie-title"><p>Sala 5</p></div>
+        </div>
+        <div class="col-lg-2 col-md-2 movies-column text-center right-column">
+          <div class="row movie-title"><img src="img/Truenos.jpg" alt="Truenos" class="img-movies"></div>
+          <div class="row movie-title"><p>Truenos</p></div>
+          <div class="row movie-title"><p>Sala 6</p></div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="titulo-cartelera col-lg-8 col-md-8 col-sm-12 col-xs-12 left-column">
+          <header class="titulo-text text-capitalize text-center">próximos estrenos</header>
+        </div>
+        <div class="titulo-cartelera col-lg-4 col-md-4 right-column">
+          <header class="titulo-text text-capitalize text-center">mejor calificada</header>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 left-column movies-row">
+          <div class="row">
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 text-center movies-column">
+              <div class="row movie-title"><img src="img/JuegosInocentes.jpg" alt="Juegos Inocentes" class="img-movies"></div>
+              <div class="row movie-title"><p>Juegos Inocentes</p></div>
+              <div class="row movie-title"><p>11 - 2019</p></div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 text-center movies-column">
+              <div class="row movie-title"><img src="img/GretaGarbo.jpg" alt="Greta Garbo" class="img-movies"></div>
+              <div class="row movie-title"><p>Greta Garbo</p></div>
+              <div class="row movie-title"><p>01 - 2020</p></div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 text-center movies-column">
+              <div class="row movie-title"><img src="img/Zacarias.jpg" alt="Zacarias" class="img-movies"></div>
+              <div class="row movie-title"><p>Zacarias</p></div>
+              <div class="row movie-title"><p>02 - 2020</p></div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-4 movies-row right-column">
+          <div class="movies-column text-center col-lg-12 col-md-12">
+            <div class="row movie-title"><img src="img/AngryBirds.jpg" alt="Angry Birds" class="img-movies"></div>
+            <div class="row movie-title"><p>Angry Birds</p></div>
+            <div class="row movie-title"><p>Calicación 10/10</p></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-6 col-md-6 titulo-cartelera left-column right-column">
+          <header class="titulo-text text-capitalize text-center">servicios</header>
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 titulo-cartelera">
+          <header class="titulo-text text-capitalize text-center">registrate</header>
+        </div>
+      </div>
+
+      <div class="row movies-row">
+        <div class="col-lg-6 col-md-6 left-column right-column">
+          <p class="services-text">En nuestro cine te ofrecemos los siguientes servicios para brindarte la mejor diversión y que disfrutes al máximo:</p>
+          <dl class="dl-horizontal">
+            <dt class="services-text">Salas de cine</dt>
+            <dd class="services-text">Salas amplias y con la mejor tecnología en cinemas, sonido envolvente, 2d, 3d y 4d.</dd>
+          </dl>
+          <dl class="dl-horizontal">
+            <dt class="services-text">Confitería</dt>
+            <dd class="services-text">Gran variedad de comestibles, para poder disfrutar durante su estadía en nuestras instalaciones. Crispetas de calidad, bebidas, snacks, entre otros.</dd>
+          </dl>
+          <dl class="dl-horizontal">
+            <dt class="services-text">VIP</dt>
+            <dd class="services-text">Servicios especiales para los clientes más cinéfilos, entre es: filas preferenciales, descuentos especiales, y obsequios de cumpleaños.</dd>
+          </dl>
+          <h1 class="text-center text-uppercase welcome-title">¡te esperamos!</h1>
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+          <form role="form">
+            <fieldset>
+              <div class="form-group text-center">
+                <legend class="user_data">Datos personales</legend>
+                <input class="form-control input-element" type="text" name="nombre" id="nombre" placeholder="Nombre Completo"><!-- placeholder: Atributo con pista para el usuario -->
+                <input class="form-control input-element" type="text" name="email" id="email" placeholder="Correo Electrónico">
+                <input class="form-control input-element" type="text" name="telefono" id="telefono" placeholder="Teléfono">
+                <input class="form-control input-element" type="text" name="ciudad" id="ciudad" placeholder="Ciudad">
+              </div>
+              <div class="form-group text-center">
+                <legend class="user_data">Elige tus categorías favoritas</legend>
+                <input type="checkbox" name="terror" id="terror">
+                  <label for="terror" class="label-class">Terror</label>
+                <input type="checkbox" name="comedia" id="comedia">
+                  <label for="comedia" class="label-class">Comedia</label>
+                <input type="checkbox" name="suspenso" id="suspenso">
+                  <label for="suspenso" class="label-class">Suspenso</label>
+                <input type="checkbox" name="accion" id="accion">
+                  <label for="accion" class="label-class">Acción</label>
+                <input type="checkbox" name="infantil" id="infantil">
+                  <label for="infantil" class="label-class">Infantil</label>
+              </div>
+              <div class="text-center">
+                <legend class="user_data">¿Desea recibir correo de nuestro sitio?</legend>
+                <input type="radio" name="si" id="si">
+                  <label for="si" class="label-class">Si</label>
+                <input type="radio" name="no" id="no">
+                  <label for="no" class="label-class">No</label>
+              </div>
+              <div class="text-center">
+                <input type="button" name="boton" value="Guardar" class="btn btn-primary form-control btn-save">
+              </div>
+            </fieldset>
+          </form>
+        </div>
+
+        <div class="row" id="Derechos">
+          <div class="col-lg-6 col-md-6">
+            <h1>Derechos</h1>
+          </div>
+          <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+            <p>• NextU LATAM Inc.<br>• José Manuel Rodríguez Roberto<br>© CopyRight - 2019</p>
+          </div>
+        </div>
+
+      </div>
+    </section>
+  </body>
+</html>

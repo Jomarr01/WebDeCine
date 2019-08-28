@@ -1,0 +1,29 @@
+<svg width="1280" height="674" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+ <metadata>Created by potrace 1.15, written by Peter Selinger 2001-2017</metadata>
+
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="1282" height="676" id="canvas_background" fill="none"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <metadata transform="matrix(0.007701552383333754,0,0,0.007701552383333754,0,0) ">Created by potrace 1.15, written by Peter Selinger 2001-2017</metadata>
+  <g id="svg_16">
+   <g stroke="null" id="svg_7">
+    <g id="svg_5" fill="#ffeb3b" transform="matrix(0.10009325690904146,0,0,-0.10009325690904146,-82537.63157380372,-42786.59467310524) ">
+     <path fill="#ffffaa" stroke="null" id="svg_6" d="m825488.5,-427567.65625l-55,-4l3,-39c4,-35 7,-40 30,-40l25,0l-6,-77c-9,-109 -30,-184 -82,-288c-120,-244 -347,-396 -625,-421l-80,-7l0,-40c0,-36 6,-45 65,-99c93,-86 137,-177 143,-298c4,-70 0,-103 -17,-158c-25,-82 -92,-179 -151,-218l-40,-27l1,-86l0,-86l42,-30c54,-39 111,-116 139,-185c18,-45 22,-75 23,-166c0,-107 -1,-112 -38,-186c-26,-53 -54,-91 -93,-127c-31,-28 -60,-51 -65,-51c-5,0 -9,-40 -9,-88l0,-88l43,-32c56,-43 92,-89 130,-170c30,-63 32,-74 32,-178c0,-107 -1,-112 -38,-186c-28,-57 -54,-92 -102,-136l-65,-59l0,-78l0,-78l65,-59c93,-86 137,-177 143,-298c4,-70 0,-103 -17,-158c-24,-81 -89,-175 -150,-218l-41,-29l1,-85l0,-85l50,-38c107,-82 165,-219 157,-371c-6,-118 -52,-211 -143,-293c-62,-55 -65,-60 -65,-104l0,-46l93,-6c85,-5 238,-45 210,-54c-16,-6 -6,-54 17,-77c15,-15 121,-51 214,-71c27,-6 61,-40 112,-112c84,-116 130,-248 141,-399l6,-84l-29,0c-28,0 -29,-2 -26,-40l4,-40l108,0c136,0 200,-8 194,-25c-10,-24 24,-83 58,-102c32,-17 230,-18 5328,-18c4504,0 5300,2 5328,14c41,17 67,66 76,141c26,216 101,368 250,507c87,82 217,151 331,179c170,41 191,82 105,200c-85,116 -103,164 -108,279c-6,145 18,204 143,363c73,91 68,157 -21,267c-31,39 -71,99 -88,135c-29,61 -31,72 -31,180c0,103 3,121 26,170c14,30 49,84 78,120c69,86 85,116 85,170c0,54 -18,89 -79,161c-25,30 -61,83 -78,119c-30,61 -32,70 -32,180c0,108 2,119 31,180c17,36 56,96 86,134c99,123 98,185 -7,311c-87,105 -115,178 -115,302c0,128 28,192 145,341c73,91 68,157 -21,267c-31,39 -71,99 -88,135c-29,61 -31,72 -31,180c0,104 3,121 27,172c14,31 44,80 66,110c93,122 76,170 -76,208c-23,6 -48,8 -55,5c-6,-4 3,7 21,23c26,23 32,36 32,68l0,40l-97,11c-106,13 -221,48 -287,87c-40,24 -94,64 -67,50c8,-4 -1,14 -18,40c-65,94 -110,223 -127,361c-13,112 -55,159 -146,160c-35,0 -38,3 -44,33c-4,18 -4,55 -2,81l5,48l-90,7c-91,6 -10666,5 -10767,-1z"/>
+    </g>
+   </g>
+   <g id="svg_1">
+    <line fill="#007f00" stroke="#adad00" stroke-width="5" x1="159" y1="59.875" x2="1095.021367" y2="59.875" id="svg_9" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+    <line fill="#007f00" stroke="#adad00" stroke-width="5" x1="159" y1="607.875" x2="1095.021367" y2="607.875" id="svg_10" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+    <line fill="#007f00" stroke="#adad00" stroke-width="5" x1="101" y1="119.875" x2="101" y2="551.217092" id="svg_11" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+    <line fill="#007f00" stroke="#adad00" stroke-width="5" x1="1173.000132" y1="121.875" x2="1173.000132" y2="553.217092" id="svg_12" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+    <g id="svg_15" stroke="null">
+     <text fill="#007f00" stroke-width="0" x="326.524781" y="217.874609" id="svg_13" font-size="100" font-family="'Courier New', Courier, monospace" text-anchor="start" xml:space="preserve" font-weight="bold" transform="matrix(2.7442375193168203,0,0,2.7442375193168203,-586.2689820915201,-307.8384501791325) " stroke="#adad00">CINE</text>
+     <text fill="#007f00" stroke-width="0" x="265.016975" y="302.882909" id="svg_14" font-size="100" font-family="'Courier New', Courier, monospace" text-anchor="start" xml:space="preserve" font-weight="bold" transform="matrix(2.7442375193168203,0,0,2.7442375193168203,-586.2689820915201,-307.8384501791325) " stroke="#adad00">JOMARR</text>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

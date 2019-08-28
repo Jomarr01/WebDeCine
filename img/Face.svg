@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<svg width="259" height="259" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+ <title>facebook-icon-single-path</title>
+ <desc>Created by Marc Choisnard</desc>
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m178.409,258.307l65.673,0c7.854,0 14.223,-6.369 14.223,-14.225l0,-229.27c0,-7.857 -6.368,-14.224 -14.223,-14.224l-229.27,0c-7.857,0 -14.224,6.367 -14.224,14.224l0,229.27c0,7.855 6.366,14.225 14.224,14.225l123.431,0l0,-99.785l-33.585,0l0,-38.895l33.585,0l0,-28.684c0,-33.287 20.33,-51.413 50.025,-51.413c14.224,0 26.45,1.059 30.012,1.533l0,34.788l-20.596,0.009c-16.148,0 -19.275,7.674 -19.275,18.935l0,24.832l38.515,0l-5.016,38.895l-33.499,0l0,99.785z" fill="#ffffff" fill-rule="nonzero" id="facebook-icon"/>
+ </g>
+</svg>
